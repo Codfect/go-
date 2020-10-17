@@ -1,0 +1,14 @@
+package main
+
+import "fmt"
+
+func main() {
+	//Ao criar uma função o nome é parametro
+	//Quando ta chamando a função o nome é argumento
+
+	basica()
+}
+
+func basica() {
+	fmt.Println("Hello Basic")
+}
